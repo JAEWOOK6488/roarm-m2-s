@@ -5,3 +5,5 @@ nav:
   - 사용법: hello.md
 
 theme: readthedocs
+
+site_dir: docs
