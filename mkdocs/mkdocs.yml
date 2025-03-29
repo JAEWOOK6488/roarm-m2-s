@@ -1,4 +1,5 @@
 site_name: Roarm-m2-s custom docs
+site_dir: ../docs
 
 nav:
   - 홈: index.md
@@ -6,4 +7,3 @@ nav:
 
 theme: readthedocs
 
-site_dir: ../docs
