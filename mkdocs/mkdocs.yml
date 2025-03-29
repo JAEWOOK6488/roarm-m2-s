@@ -6,4 +6,4 @@ nav:
 
 theme: readthedocs
 
-site_dir: docs
+site_dir: ../docs
