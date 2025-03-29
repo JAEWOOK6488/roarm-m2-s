@@ -1,4 +1,4 @@
-name: 📚 MkDocs Build (No Deploy)
+name: 📚 MkDocs Build
 
 on:
   push:
