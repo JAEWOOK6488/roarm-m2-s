@@ -1,0 +1,7 @@
+site_name: Roarm-m2-s custom docs
+
+nav:
+  - 홈: index.md
+  - 사용법: hello.md
+
+theme: readthedocs
