@@ -35,6 +35,7 @@
                     <param name="max">2.879793</param>
                 </command_interface>
                 <state_interface name="position"/>
+                <state_interface name="velocity"/>
             </joint>
         </ros2_control>
 
